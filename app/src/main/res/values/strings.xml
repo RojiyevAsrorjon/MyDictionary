@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">English dictionary </string>
+    <string name="speech_prompt" />
+</resources>
